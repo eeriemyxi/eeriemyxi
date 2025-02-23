@@ -1,4 +1,4 @@
-Providing mentorship for Python, see [my sponsor
+Providing mentorship for Python ($10 for 7 days), see [my sponsor
 profile](https://github.com/sponsors/eeriemyxi) for more information. Also
 includes a 2-day free trial.
 

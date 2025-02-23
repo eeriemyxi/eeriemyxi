@@ -1,4 +1,4 @@
-Providing mentorship for Python, see [my sponser
+Providing mentorship for Python, see [my sponsor
 profile](https://github.com/sponsor/eeriemyxi) for more information. Also
 includes a 2-day free trial.
 

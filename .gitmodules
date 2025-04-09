@@ -1,0 +1,3 @@
+[submodule "txt-lang-stats"]
+	path = txt-lang-stats
+	url = https://github.com/eeriemyxi/txt-lang-stats

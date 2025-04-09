@@ -24,7 +24,7 @@ jobs:
 
       - name: Update README.md
         env:
-            TXLST_GITHUB_TOKEN: {{secrets.TXLST_GITHUB_TOKEN}}
+            TXLST_GITHUB_TOKEN: ${{ secrets.TXLST_GITHUB_TOKEN }}
             TXLST_GITHUB_USERNAME: "eeriemyxi"
             TXLST_INCLUDE_FORKS: "True"
             TXLST_BLACKLIST_LANGS: '{"CSS", "Shell", "Emacs Lisp", "KakouneScript"}'

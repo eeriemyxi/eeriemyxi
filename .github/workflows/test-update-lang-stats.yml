@@ -1,9 +1,7 @@
 name: Test Update Language Statistics
 
 on: 
-  push:
-    branches:
-      - main
+  push
 
 jobs:
   update:

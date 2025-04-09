@@ -17,4 +17,4 @@ My contributions to third-party open-source projects on GitHub can be found here
 %%BAR%%
 ```
 
-_Last updated on **%%DATE%%** with [`txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_
+<sub>_Last updated on **%%DATE%%** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>

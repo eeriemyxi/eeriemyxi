@@ -1,0 +1,41 @@
+name: Test Update Language Statistics
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+            submodules: recursive
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+          
+      - name: Install txt-lang-stats
+        run: |
+          ls -a
+          pip install ./txt-lang-stats
+
+      - name: Update README.md
+        env:
+            TXLST_GITHUB_TOKEN: {{secrets.TXLST_GITHUB_TOKEN}}
+            TXLST_GITHUB_USERNAME: "eeriemyxi"
+            TXLST_INCLUDE_FORKS: "True"
+            TXLST_BLACKLIST_LANGS: '{"CSS", "Shell", "Emacs Lisp", "KakouneScript"}'
+            TXLST_SYMBOLS: '("+", "-", "=", "~", "×", "&", "*", ".")'
+        run: |
+          txt-lang-stats --insert-into README-TEMPLATE.md > README.md
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update language statistics"
+          push_options: '--force-with-lease'

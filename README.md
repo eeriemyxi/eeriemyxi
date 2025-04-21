@@ -8,3 +8,21 @@ I am also available for employment in India. However, I will also gladly take a 
 
 -----
 My contributions to third-party open-source projects on GitHub can be found here: https://github.com/eeriemyxi-contributions
+
+---
+# Language Statistics
+```yaml
+[+] Python: 46.7%
+[-] Lua: 4.1%
+[=] C: 1.8%
+[~] TypeScript: 1.6%
+[×] JavaScript: 0.8%
+[&] Nim: 0.8%
+[*] C++: 0.6%
+[.] Others: 43.4%
+
+0% [+++++-=~×&*.....] 100%
+```
+
+<sub>_Last updated on **2025-04-21 09:14:57** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
+

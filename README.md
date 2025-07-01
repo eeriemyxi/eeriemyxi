@@ -3,6 +3,13 @@ I am available for freelance opportunities. Contact me via my [e-mail](mailto:my
 I am also available for employment in India. However, I will also gladly take a
 remote job from anywhere.
 
+<p align="center">Discord:</p>
+<p align="center">
+  <a href="https://discord.com/users/598134630104825856">
+    <img alt="Static Badge" src="https://img.shields.io/badge/%40myxi-Add_me_on_Discord-blue?style=flat&logo=discord&logoColor=white&labelColor=%235865F2&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F598134630104825856%2F">
+  </a>
+</p>
+
 ---
 
 My contributions to third-party open-source projects on GitHub can be found
@@ -12,18 +19,18 @@ here: https://github.com/eeriemyxi-contributions
 
 # Language Usage Statistics
 ```yaml
-[+] Python: 29.8%
+[+] Python: 29.9%
 [-] Lua: 4.8%
 [=] C: 1.1%
 [~] TypeScript: 1.0%
 [×] JavaScript: 0.5%
 [&] Nim: 0.5%
 [*] C++: 0.4%
-[.] Others: 61.7%
+[.] Others: 61.6%
 
 0% [+++-=~×&*.......] 100%
 ```
 
-<sub>_Last updated on **2025-07-01 09:17:20** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
+<sub>_Last updated on **2025-07-01 21:17:34** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
 
 

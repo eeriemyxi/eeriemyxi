@@ -26,11 +26,11 @@ here: https://github.com/eeriemyxi-contributions
 [×] JavaScript: 0.5%
 [&] Nim: 0.5%
 [*] C++: 0.4%
-[.] Others: 61.6%
+[.] Others: 61.5%
 
 0% [+++-=~×&*.......] 100%
 ```
 
-<sub>_Last updated on **2025-07-02 09:17:24** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
+<sub>_Last updated on **2025-07-02 21:17:09** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
 
 

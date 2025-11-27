@@ -23,7 +23,7 @@ here: https://github.com/eeriemyxi-contributions
 [-] Lua: 4.7%
 [=] C: 1.1%
 [~] TypeScript: 0.9%
-[×] JavaScript: 0.9%
+[×] JavaScript: 0.8%
 [&] Nim: 0.5%
 [*] C++: 0.4%
 [.] Others: 61.0%
@@ -31,6 +31,6 @@ here: https://github.com/eeriemyxi-contributions
 0% [++++-=~×&*.......] 100%
 ```
 
-<sub>_Last updated on **2025-11-27 09:17:07** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
+<sub>_Last updated on **2025-11-27 21:16:53** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
 
 

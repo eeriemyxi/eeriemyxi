@@ -20,17 +20,17 @@ here: https://github.com/eeriemyxi-contributions
 # Language Usage Statistics
 ```yaml
 [+] Python: 29.9%
-[-] Lua: 4.7%
+[-] Lua: 4.9%
 [=] C: 1.1%
 [~] TypeScript: 0.9%
 [×] JavaScript: 0.9%
 [&] Odin: 0.6%
 [*] Nim: 0.5%
-[.] Others: 61.0%
+[.] Others: 60.9%
 
 0% [+++-=~×&*.......] 100%
 ```
 
-<sub>_Last updated on **2025-12-25 21:17:34** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
+<sub>_Last updated on **2025-12-26 09:17:09** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
 
 

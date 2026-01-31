@@ -1,7 +1,6 @@
-I am available for freelance opportunities. Contact me via my [e-mail](mailto:myxi@envs.net?subject=I'd%20Like%20to%20Talk%20to%20You%20About%20a%20Freelance%20Project) to talk. You can find my PGP key [here](https://github.com/sponsors/eeriemyxi).
+I am available for freelance opportunities. Contact me via my [e-mail](mailto:myxi@duck.com?subject=I'd%20Like%20to%20Talk%20to%20You%20About%20a%20Freelance%20Project) to talk.
 
-I am also available for employment in India. However, I will also gladly take a
-remote job from anywhere.
+I am also available for employment in India, or a remote job from anywhere.
 
 <p align="center">Discord:</p>
 <p align="center">
@@ -13,7 +12,7 @@ remote job from anywhere.
 ---
 
 My contributions to third-party open-source projects on GitHub can be found
-here: https://github.com/eeriemyxi-contributions
+here: https://github.com/orgs/eeriemyxi-contributions/repositories
 
 ---
 
@@ -31,6 +30,6 @@ here: https://github.com/eeriemyxi-contributions
 0% [+++-=~×&*......] 100%
 ```
 
-<sub>_Last updated on **2026-01-31 20:50:41** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
+<sub>_Last updated on **2026-01-31 20:56:22** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
 
 

@@ -24,12 +24,12 @@ here: https://github.com/orgs/eeriemyxi-contributions/repositories
 [~] C: 1.0%
 [×] JavaScript: 0.9%
 [&] Odin: 0.8%
-[*] C++: 0.6%
-[.] Others: 56.1%
+[*] C++: 0.7%
+[.] Others: 56.0%
 
 0% [+++-=~×&*......] 100%
 ```
 
-<sub>_Last updated on **2026-02-24 09:44:25** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
+<sub>_Last updated on **2026-02-24 21:33:25** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
 
 

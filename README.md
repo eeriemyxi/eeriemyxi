@@ -20,7 +20,7 @@ here: https://github.com/orgs/eeriemyxi-contributions/repositories
 ```yaml
 [+] Python: 30.8%
 [-] TypeScript: 7.0%
-[=] Lua: 2.5%
+[=] Lua: 2.6%
 [~] Rust: 1.4%
 [×] C: 1.0%
 [&] JavaScript: 0.9%
@@ -30,6 +30,6 @@ here: https://github.com/orgs/eeriemyxi-contributions/repositories
 0% [++++-=~×&*......] 100%
 ```
 
-<sub>_Last updated on **2026-06-13 11:10:04** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
+<sub>_Last updated on **2026-06-13 22:02:26** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
 
 

@@ -3,7 +3,7 @@ I am available for freelance opportunities. Contact me via my [e-mail](mailto:my
 I am also available for employment in India, or a remote job from anywhere.
 
 > [!CAUTION]
-> All of my projects, including READMEs, are proudly **handwritten**. I only use LLM/Generative AI for occasional research and summaries. You're welcome to explore my projects with my efforts in mind :).
+> All of my projects, including READMEs, are **handwritten**. I only use LLM/Generative AI for occasional research and summaries, so everything you see here is the result of my own manual effort. Feel free to explore my work with that in mind.
 
 <p align="center">Discord:</p>
 <p align="center">
@@ -33,6 +33,6 @@ here: https://github.com/orgs/eeriemyxi-contributions/repositories
 0% [+++-=~×&*......] 100%
 ```
 
-<sub>_Last updated on **2026-08-13 09:56:33** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
+<sub>_Last updated on **2026-08-13 21:42:08** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
 
 

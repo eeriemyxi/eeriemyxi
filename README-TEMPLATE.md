@@ -1,6 +1,6 @@
 I am available for freelance opportunities. Contact me via my [e-mail](mailto:work.myxi@gmail.com?subject=I'd%20Like%20to%20Talk%20to%20You%20About%20a%20Freelance%20Project) to talk.
 
-I am also available for employment in India, or a remote job from anywhere.
+Unemployed. Open to work. I am available for employment in India, or **a remote job** from anywhere. Reach me via my [e-mail](mailto:work.myxi@gmail.com?subject=I'd%20Like%20to%20Talk%20to%20You%20About%20a%20Job%20Offer), thank you.
 
 > [!CAUTION]
 > All of my projects, including READMEs, are **handwritten**. I only use LLM/Generative AI for occasional research and summaries, so everything you see here is the result of my own manual effort. Feel free to explore my work with that in mind.

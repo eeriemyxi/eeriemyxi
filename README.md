@@ -1,4 +1,4 @@
-I am available for freelance opportunities. Contact me via my [e-mail](mailto:myxi@duck.com?subject=I'd%20Like%20to%20Talk%20to%20You%20About%20a%20Freelance%20Project) to talk.
+I am available for freelance opportunities. Contact me via my [e-mail](mailto:work.myxi@gmail.com?subject=I'd%20Like%20to%20Talk%20to%20You%20About%20a%20Freelance%20Project) to talk.
 
 I am also available for employment in India, or a remote job from anywhere.
 
@@ -33,6 +33,6 @@ here: https://github.com/orgs/eeriemyxi-contributions/repositories
 0% [+++-=~×&*......] 100%
 ```
 
-<sub>_Last updated on **2026-11-27 18:37:47** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
+<sub>_Last updated on **2026-11-27 20:35:08** with [`eeriemyxi/txt-lang-stats`](https://github.com/eeriemyxi/txt-lang-stats)_</sub>
 
 
